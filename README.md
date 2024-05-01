@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AhmetEmir Şener</h1>
-- 🌱 I’m currently learning **C#, Asp.Net, JavaScript**
 
+- 🌱 I’m currently learning **C#, Asp.Net, JavaScript**
 - 📫 How to reach me **ko446134@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

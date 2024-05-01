@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AhmetEmir Şener</h1>
-- 🌱 I’m currently learning **C#, Asp.Net**
+- 🌱 I’m currently learning **C#, Asp.Net, JavaScript**
 
 - 📫 How to reach me **ko446134@gmail.com**
 

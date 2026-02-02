@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, Nodejs**
 
-- 👨‍💻 All of my projects are available at <a href="ahmetemirsener.com" target="_blank">My Page</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://ahmetemirsener.com" >My Page</a>
 
 - 📫 How to reach me **ko446134@gmail.com**
 

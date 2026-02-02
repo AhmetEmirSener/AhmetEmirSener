@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ahmet Emir Şener</h1>
 <h3 align="center">I’m a Junior Backend Developer focused on building clean, efficient, and scalable web applications.</h3>
 
-- 🔭 I’m currently working on [AES Central Management](https:\\oxidesoftware.com.tr)
+- 🔭 I’m currently working on <a href="https://oxidesoftware.com.tr">[AES Central Management]</a>
 
 - 🌱 I’m currently learning **Laravel, Nodejs**
 
-- 👨‍💻 All of my projects are available at [ahmetemirsener.com](https:\\ahmetemirsener.com)
+- 👨‍💻 All of my projects are available at [ahmetemirsener.com](ahmetemirsener.com)
 
 - 📫 How to reach me **ko446134@gmail.com**
 

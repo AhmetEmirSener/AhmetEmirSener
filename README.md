@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://oxidesoftware.com.tr" target="blank">AES Central Management</a>
 
-- 🌱 I’m currently learning **Laravel, Nodejs**
+- 🌱 I’m currently learning **Laravel, React**
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://ahmetemirsener.com" >My Page</a>
 
